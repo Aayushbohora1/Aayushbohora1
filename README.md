@@ -2,100 +2,143 @@
 
 # Aayush Bohora
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Builder+%7C+Explorer+%7C+Self+Learner;Robotics+%7C+Reverse+Engineering+%7C+Space;I+break+things+to+understand+them" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=650&lines=Builder+%7C+Explorer+%7C+Self-Taught;Reverse+Engineering+%7C+Robotics+%7C+Space;I+break+things+to+see+how+they+work" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧊 Hologram Profile Layer
 
-<div style="border:1px solid #444; padding:15px; border-radius:12px;">
+<div style="
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.15);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 18px;
+">
 
-* From Nepal
-* Self-taught learner
-* I prefer building and breaking things instead of just reading theory
-* Interested in systems, hardware, software, and how everything works internally
-* Always experimenting with random ideas
+**Identity Layer**
 
-</div>
-
----
-
-## ⚙️ What I Like
-
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
-
-```txt
-Reverse Engineering
-Robotics
-Space & Astronomy
-Game Modding
-Cybersecurity
-AI Systems
-Mobile Apps
+```
+Name      : Aayush Bohora
+Base      : Nepal
+Mode      : Self-learning / Experimental
+Status    : Building, breaking, learning
 ```
 
 </div>
 
 ---
 
-## 🚀 What I’ve Done
+## 🧬 Core System Modules
 
-<div style="border:1px solid #333; padding:15px; border-radius:12px;">
+<div style="
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+">
 
-* Won a robotics competition (Robotics Association of Nepal)
-* Worked on mobile game modding projects
-* Built experimental apps and tools
-* Observed celestial objects like the Moon
-* Explored interstellar objects and space science
-* Learned most things by building, not studying
+<div style="
+  background: rgba(0,255,255,0.06);
+  border: 1px solid rgba(0,255,255,0.2);
+  border-radius: 14px;
+  padding: 14px;
+">
+
+### Module A
+
+* Reverse Engineering
+* Cyber Systems
+* Game Modding
+
+</div>
+
+<div style="
+  background: rgba(255,0,255,0.06);
+  border: 1px solid rgba(255,0,255,0.2);
+  border-radius: 14px;
+  padding: 14px;
+">
+
+### Module B
+
+* Robotics
+* AI Exploration
+* Automation
+
+</div>
 
 </div>
 
 ---
 
-## 🧪 Current Mode
+## 🛰️ Experience Log
 
-```python
+<div style="
+  background: rgba(255,255,255,0.04);
+  border-left: 2px solid rgba(0,255,255,0.5);
+  padding: 16px;
+  border-radius: 12px;
+">
+
+* Robotics competition winner (Robotics Association of Nepal)
+* Mobile game modding experiments
+* Software and tool building
+* Astronomy observation (Moon, space objects)
+* Constant system reverse engineering curiosity
+
+</div>
+
+---
+
+## ⚙️ Runtime Loop
+
+```python id="r1k9x0"
 while True:
-    learn()
+    curiosity += 1
     build()
-    break_things()
-    fix_things()
+    break_systems()
+    understand_deeply()
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Terminal Interface
 
-<div align="center">
+<div style="
+  background: rgba(0,0,0,0.4);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 14px;
+  padding: 14px;
+  font-family: monospace;
+">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</div>
-
----
-
-## 🌌 Terminal Vibe
-
-```bash
+```
 $ whoami
 Aayush Bohora
 
-$ echo "status"
-building things... breaking things... learning things...
+$ mode
+experimental builder
 
-$ echo "goal"
-understand everything I touch
+$ status
+learning by breaking things
+
+$ goal
+understand everything from the inside
 ```
+
+</div>
 
 ---
 
-## 🧩 Closing Thought
+## ✨ Hologram Footer Layer
 
-```txt
-Curiosity > everything else
-```
+<div align="center" style="
+  opacity: 0.8;
+  font-style: italic;
+">
+
+Curiosity is the only dependency I never remove.
+
+</div>
