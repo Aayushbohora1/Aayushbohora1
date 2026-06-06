@@ -2,55 +2,63 @@
 
 # Aayush Bohora
 
-Building random things, breaking them, then figuring out how they work.
-
-Nepal • Robotics • Astronomy • Reverse Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Builder+%7C+Explorer+%7C+Self+Learner;Robotics+%7C+Reverse+Engineering+%7C+Space;I+break+things+to+understand+them" />
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
+
+<div style="border:1px solid #444; padding:15px; border-radius:12px;">
+
+* From Nepal
+* Self-taught learner
+* I prefer building and breaking things instead of just reading theory
+* Interested in systems, hardware, software, and how everything works internally
+* Always experimenting with random ideas
+
+</div>
+
+---
+
+## ⚙️ What I Like
+
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
 
 ```txt
-Name      : Aayush Bohora
-Location  : Nepal
-Learning  : By doing things myself
-Currently : Building stuff and exploring new ideas
+Reverse Engineering
+Robotics
+Space & Astronomy
+Game Modding
+Cybersecurity
+AI Systems
+Mobile Apps
 ```
 
-I enjoy taking things apart to understand how they work.
-
-Sometimes that's software, sometimes it's hardware, and sometimes it's a project that probably shouldn't have worked in the first place.
-
-My interests include:
-
-* Reverse Engineering
-* Robotics
-* Astronomy
-* Cybersecurity
-* Mobile Development
-* AI & Automation
-* Open Source
-* Random Side Projects
+</div>
 
 ---
 
-## Things I've Done
+## 🚀 What I’ve Done
 
-* Won a robotics competition organized by the Robotics Association of Nepal
-* Explored mobile game modding
-* Built various software projects
-* Observed the Moon through a telescope
-* Spent way too many hours reading about space and interstellar objects
-* Learned most things through experimentation instead of courses
+<div style="border:1px solid #333; padding:15px; border-radius:12px;">
+
+* Won a robotics competition (Robotics Association of Nepal)
+* Worked on mobile game modding projects
+* Built experimental apps and tools
+* Observed celestial objects like the Moon
+* Explored interstellar objects and space science
+* Learned most things by building, not studying
+
+</div>
 
 ---
 
-## Current Status
+## 🧪 Current Mode
 
 ```python
-while alive:
+while True:
     learn()
     build()
     break_things()
@@ -59,13 +67,35 @@ while alive:
 
 ---
 
-## Fun Facts
+## 📊 GitHub Stats
 
-* I listen to music while building things
-* I like poems more than most developers probably do
-* Space documentaries can easily ruin my sleep schedule
-* I enjoy understanding how systems work internally
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
 
 ---
 
-> "Curiosity is usually where all my projects start."
+## 🌌 Terminal Vibe
+
+```bash
+$ whoami
+Aayush Bohora
+
+$ echo "status"
+building things... breaking things... learning things...
+
+$ echo "goal"
+understand everything I touch
+```
+
+---
+
+## 🧩 Closing Thought
+
+```txt
+Curiosity > everything else
+```
