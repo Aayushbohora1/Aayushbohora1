@@ -63,7 +63,6 @@ I'm based in Nepal, self-taught, and mostly learn by pulling systems apart — s
 
 </div>
 
-> This one's a genuinely animated snake that eats through your contribution graph — but it needs a one-time setup: create a repo named exactly `Aayushbohora1` (a "profile repo"), then drop the `snake.yml` file below into `.github/workflows/` in that repo. GitHub Actions will run it automatically and this image will come alive.
 
 <br>
 
