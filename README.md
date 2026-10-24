@@ -32,7 +32,7 @@ I'm based in Nepal, self-taught, and mostly learn by pulling systems apart — s
 
 ### Stack I reach for
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,linux,git,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,linux,git,bash&theme=dark" />
 
 <br><br>
 
