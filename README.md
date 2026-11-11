@@ -1,61 +1,44 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Aayush%20Bohora&fontSize=46&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Reverse%20Engineer%20%C2%B7%20Robotics%20%C2%B7%20Self-Taught%20Builder&descAlignY=56&descSize=18&descColor=e0e0e0&fontFamily=Fira+Code" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16213e&height=180&section=header&text=Aayush%20Bohora&fontSize=44&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=900&color=39FF14&background=0D1117&center=false&vCenter=true&width=620&height=170&lines=C%3A%5CUsers%5CAayush%3E+whoami;Aayush+Bohora;C%3A%5CUsers%5CAayush%3E+location;Nepal;C%3A%5CUsers%5CAayush%3E+status;learning+by+breaking+things%2C+one+system+at+a+time;C%3A%5CUsers%5CAayush%3E+_" />
+**Nepal · Robotics · Software · Reverse Engineering**
 
 </div>
 
-<br>
+## About
 
-I'm based in Nepal, self-taught, and mostly learn by pulling systems apart — software, hardware, or games — until I understand how they actually work. That curiosity has taken me through robotics competitions, mobile game modding, astronomy, and building my own tools.
+I'm based in Nepal. I work on software and hardware projects, with interests in robotics, reverse engineering, and understanding how systems work.
 
-<br>
+I also build scripts and tools, experiment with mobile games, and spend time observing the night sky.
 
-### Where my curiosity has taken me
+## Interests
 
-| | |
-|---|---|
-| ![Robotics](https://img.shields.io/badge/Robotics-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=39FF14) | Placed as a winner in a robotics competition held by the Robotics Association of Nepal |
-| ![Game Modding](https://img.shields.io/badge/Game%20Modding-0D1117?style=for-the-badge&logo=unity&logoColor=00F0FF) | Digging into mobile games — modifying, reverse engineering, understanding how they're built under the hood |
-| ![Tool Building](https://img.shields.io/badge/Tool%20Building-0D1117?style=for-the-badge&logo=gnubash&logoColor=39FF14) | Writing my own scripts and software when the existing ones don't do what I need |
-| ![Astronomy](https://img.shields.io/badge/Astronomy-0D1117?style=for-the-badge&logo=nasa&logoColor=FF2E9A) | Nights spent observing the Moon and other objects in the sky — telescope in hand, no rush |
-| ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-0D1117?style=for-the-badge&logoColor=00F0FF) | The constant thread through everything above — I don't trust a system until I've opened it up |
+- **Robotics:** Building and experimenting with robots, drones, and RC cars. Participated in robotics competitions.
+- **Reverse Engineering:** Exploring software and game internals to understand how they work.
+- **Software:** Building tools, scripts, bots, and automation projects.
+- **Hardware:** Working with Arduino, Raspberry Pi, and embedded systems.
+- **Astronomy:** Observing the Moon and other objects in the night sky.
 
-<br>
+## Technologies
 
-### Stack I reach for
+<p>
+<img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,linux,git,bash&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,linux,git,bash&theme=dark" />
-
-<br><br>
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayushbohora1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aayushbohora1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushbohora1&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushbohora1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushbohora1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aayushbohora1&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br>
-
-### Live contribution graph
+## Contributions
 
 <div align="center">
 
@@ -63,13 +46,8 @@ I'm based in Nepal, self-taught, and mostly learn by pulling systems apart — s
 
 </div>
 
-
-<br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
-
-<i>Curiosity is the only dependency I never remove.</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
