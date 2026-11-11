@@ -1,53 +1,41 @@
- <div align="center">
+# Aayush Bohora
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16213e&height=180&section=header&text=Aayush%20Bohora&fontSize=44&fontColor=ffffff&fontAlignY=40" width="100%"/>
+`Nepal / Engineering / Software & Hardware`
 
-**Nepal · Robotics · Software · Reverse Engineering**
+---
 
-</div>
+### 01 — Overview
 
-## About
+I spend my time working on different things, mostly around software, hardware, and how existing systems work.
 
-I'm based in Nepal. I work on software and hardware projects, with interests in robotics, reverse engineering, and understanding how systems work.
+Some projects are experiments, some turn into actual tools, and some are just things I wanted to understand.
 
-I also build scripts and tools, experiment with mobile games, and spend time observing the night sky.
+### 02 — Areas of Interest
 
-## Interests
+| Field | Currently interested in |
+|:--|:--|
+| Robotics | Embedded systems, drones, RC projects |
+| Reverse Engineering | Software internals, mobile games |
+| Development | Tools, bots, automation |
+| Hardware | Arduino, Raspberry Pi, electronics |
+| Astronomy | Observation and space |
 
-- **Robotics:** Building and experimenting with robots, drones, and RC cars. Participated in robotics competitions.
-- **Reverse Engineering:** Exploring software and game internals to understand how they work.
-- **Software:** Building tools, scripts, bots, and automation projects.
-- **Hardware:** Working with Arduino, Raspberry Pi, and embedded systems.
-- **Astronomy:** Observing the Moon and other objects in the night sky.
-
-## Technologies
+### 03 — Toolbox
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,linux,git,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,bash,git&theme=dark"/>
 </p>
 
-## GitHub Stats
+### 04 — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayushbohora1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aayushbohora1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushbohora1&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushbohora1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushbohora1&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
-## Contributions
+---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aayushbohora1/Aayushbohora1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0D1117&height=100&section=footer" width="100%"/>
-
-</div>
+<sub> A personal workspace. Updated as projects evolve.</sub>
